@@ -1,0 +1,15 @@
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\bin\Debug\net5.0\TASK.DAL.deps.json
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\bin\Debug\net5.0\TASK.DAL.runtimeconfig.json
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\bin\Debug\net5.0\TASK.DAL.runtimeconfig.dev.json
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\bin\Debug\net5.0\TASK.DAL.dll
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\bin\Debug\net5.0\ref\TASK.DAL.dll
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\bin\Debug\net5.0\TASK.DAL.pdb
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.dll
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\ref\TASK.DAL.dll
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.pdb
+C:\Users\ahmad\source\repos\A1SoftTech_Task\DAL\obj\Debug\net5.0\TASK.DAL.genruntimeconfig.cache
