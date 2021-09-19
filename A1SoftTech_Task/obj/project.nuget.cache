@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "alFbhnDYE9TJmhLmnitiEXHsIf30WHudjS6lj9DOGXp9cf6thtlri8J2SfterBNOhDesV+yJKaT8f1S6+BN8Bw==",
+  "dgSpecHash": "mKdYme4pqbI2pd+LK64Ov/peiFA+s/74jBbsq4hYqTCBa3+xqb1Ul6SRXnFRR1ZsG/1kImVXddqEj9QCURCQYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\A1SoftTech_Task\\TASK.API.csproj",
+  "projectFilePath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\A1SoftTech_Task\\TASK.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmad\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ahmad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

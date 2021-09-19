@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1MJiR1pyJUww+BW4fta3opaoqknD8l6P694advAr0ikKiCcsZjkeefpcrJMwNHUrcndivjRfVAmVsm2WeNzng==",
+  "dgSpecHash": "fU7sbp44vG8e44W+wi1cl2dbFfG/1N8PS0/ZTR2x00MhdCHwzPiku1A1Q0r6XdW9oL67OfFhxY7xcW9WtA3NQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
+  "projectFilePath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmad\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ahmad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

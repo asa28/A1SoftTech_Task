@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {}
+    "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {
+    "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
         "projectName": "TASK.DAL",
-        "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
+        "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
         "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

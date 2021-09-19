@@ -5671,11 +5671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
       "projectName": "TASK.BLL",
-      "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
+      "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
       "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5695,8 +5695,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj": {
-              "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj"
+            "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj": {
+              "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj"
             }
           }
         }

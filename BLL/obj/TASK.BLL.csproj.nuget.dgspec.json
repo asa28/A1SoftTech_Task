@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj": {}
+    "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj": {
+    "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj",
         "projectName": "TASK.Core",
-        "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj",
+        "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj",
         "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\obj\\",
+        "outputPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {
-                "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj"
+              "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {
+                "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj": {
+    "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
         "projectName": "TASK.BLL",
-        "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
+        "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\TASK.BLL.csproj",
         "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -126,8 +126,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj": {
-                "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj"
+              "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\0-Core\\TASK.Core.csproj"
               }
             }
           }
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {
+    "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
         "projectName": "TASK.DAL",
-        "projectPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
+        "projectPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\TASK.DAL.csproj",
         "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmad\\source\\repos\\A1SoftTech_Task\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\ahmad\\Desktop\\A1SoftTech_Task\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
